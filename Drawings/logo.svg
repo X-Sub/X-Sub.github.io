@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="New document 1">
+  <defs
+     id="defs4">
+    <filter
+       id="filter5452"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood5454"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite5456"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur5458"
+         in="composite"
+         stdDeviation="2"
+         result="blur" />
+      <feOffset
+         id="feOffset5460"
+         dx="4"
+         dy="4"
+         result="offset" />
+      <feComposite
+         id="feComposite5462"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       id="filter5632"
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow">
+      <feFlood
+         id="feFlood5634"
+         flood-opacity="0.5"
+         flood-color="rgb(0,0,0)"
+         result="flood" />
+      <feComposite
+         id="feComposite5636"
+         in2="SourceGraphic"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur5638"
+         in="composite"
+         stdDeviation="4"
+         result="blur" />
+      <feOffset
+         id="feOffset5640"
+         dx="0"
+         dy="0"
+         result="offset" />
+      <feComposite
+         id="feComposite5642"
+         in2="offset"
+         in="SourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="312.18847"
+     inkscape:cy="626.98526"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-grids="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="845"
+     inkscape:window-x="0"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="arc"
+       style="fill:#53e6d3;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0;fill-opacity:1;filter:url(#filter5632)"
+       id="path3000"
+       sodipodi:cx="260"
+       sodipodi:cy="369.50504"
+       sodipodi:rx="260"
+       sodipodi:ry="260"
+       d="m 520,369.50504 a 260,260 0 1 1 -520,0 260,260 0 1 1 520,0 z"
+       transform="matrix(1.0438717,0,0,1.0438717,97.164794,20.932052)"
+       inkscape:export-filename="/home/ricardomarques/rect3800.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g3812"
+       transform="matrix(1.2034993,-0.15642633,0.15642633,1.2034993,-111.27868,-59.432579)"
+       inkscape:export-filename="/home/ricardomarques/rect3800.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="fill:#f8d87b;fill-opacity:1;stroke:none"
+         d="M 206.47518,462.63513 35.355339,499.40468 76.367532,580.01485 210.5625,468.54968 z"
+         id="path3814"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#ffb380;fill-opacity:1;stroke:none"
+         id="path3816"
+         sodipodi:cx="61.25"
+         sodipodi:cy="539.86218"
+         sodipodi:rx="33.75"
+         sodipodi:ry="41.5"
+         d="m 95,539.86218 c 0,22.91982 -15.11039,41.5 -33.75,41.5 -18.63961,0 -33.75,-18.58018 -33.75,-41.5 0,-22.91981 15.11039,-41.5 33.75,-41.5 18.63961,0 33.75,18.58019 33.75,41.5 z"
+         transform="matrix(0.04223164,-0.63983956,0.55880866,0.83178975,-248.79762,130.05445)" />
+    </g>
+    <g
+       id="g3808"
+       transform="matrix(0.92357222,0.38342453,-0.38342453,0.92357222,180.00129,-84.673908)"
+       inkscape:export-filename="/home/ricardomarques/rect3800.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3802"
+         d="M 206.47518,462.63513 35.355339,499.40468 76.367532,580.01485 210.5625,468.54968 z"
+         style="fill:#f8d87b;fill-opacity:1;stroke:none" />
+      <path
+         transform="matrix(0.04223164,-0.63983956,0.55880866,0.83178975,-248.79762,130.05445)"
+         d="m 95,539.86218 c 0,22.91982 -15.11039,41.5 -33.75,41.5 -18.63961,0 -33.75,-18.58018 -33.75,-41.5 0,-22.91981 15.11039,-41.5 33.75,-41.5 18.63961,0 33.75,18.58019 33.75,41.5 z"
+         sodipodi:ry="41.5"
+         sodipodi:rx="33.75"
+         sodipodi:cy="539.86218"
+         sodipodi:cx="61.25"
+         id="path3806"
+         style="fill:#ffb380;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+    </g>
+    <g
+       id="g5448"
+       style="filter:url(#filter5452)"
+       inkscape:export-filename="/home/ricardomarques/rect3800.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         transform="matrix(1.0715714,0.07412669,-0.07412669,1.0715714,93.152936,-64.490766)"
+         d="m 244,440.36218 a 62,62 0 1 1 -124,0 62,62 0 1 1 124,0 z"
+         sodipodi:ry="62"
+         sodipodi:rx="62"
+         sodipodi:cy="440.36218"
+         sodipodi:cx="182"
+         id="path3798"
+         style="fill:#555555;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:nodetypes="ccsssc"
+         inkscape:connector-curvature="0"
+         id="rect3782"
+         d="m 216.75476,364.36009 c 20.71691,42.39549 41.67924,85.29321 59.43543,121.62984 61.68157,-30.1412 194.11364,-70.21978 248.56626,-121.46395 17.87857,-16.82513 -3.02503,-51.91582 -13.07475,-72.48176 -10.04972,-20.56594 -24.12596,-52.72893 -46.36067,-49.14808 -64.41131,10.37328 -195.68931,95.62519 -248.56627,121.46395 z"
+         style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#f3f3f3;fill-opacity:1;stroke:none;stroke-width:0.96876072999999996;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans;" />
+    </g>
+    <path
+       style="fill:#46d16e;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.04387164000000010px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:0"
+       d="M 639.125 428.34375 C 508.3704 442.61248 404.55987 546.43587 390.28125 677.1875 C 522.87223 666.69882 628.63826 560.93527 639.125 428.34375 z "
+       id="path3793"
+       inkscape:export-filename="/home/ricardomarques/rect3800.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#555555;fill-opacity:1;stroke:none"
+       id="rect3800"
+       width="233.46672"
+       height="23.909243"
+       x="75.51815"
+       y="529.65845"
+       ry="7.9559469"
+       transform="matrix(0.90059215,-0.43466514,0.43466514,0.90059215,0,0)"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
